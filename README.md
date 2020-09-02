@@ -1,1 +1,1 @@
-# backgroundgen
+# Gradient generator
